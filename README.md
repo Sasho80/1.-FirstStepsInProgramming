@@ -8,3 +8,6 @@ Write a console-based Python program that calculates and prints the value of the
 
 (3522 + 52353) * 23 - (2336 * 501 + 23432 - 6743) * 3
 Note: you are **not allowed to previously calculate the value** (for example with Windows Calculator).
+
+03.roblem: Numbers from 1 to 20
+Write a Python console program that prints the numbers from 1 to 20 on separate lines on the console.
