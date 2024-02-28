@@ -15,5 +15,6 @@ Write a Python console program that prints the numbers from 1 to 20 on separate 
 05.Problem: Rectangle Area
 Write a Python program that receives two numbers a and b, then calculates and prints the area of a rectangle with sides a and b.
 
-![image](https://github.com/Sasho80/1.-FirstStepsInProgramming/assets/7139995/6fc46de7-1c17-4315-9075-bf40def5ada8)
+![image](https://github.com/Sasho80/1.-FirstStepsInProgramming/assets/7139995/230b729e-3886-42aa-a2c2-dc76bdef77bf)
+
 
