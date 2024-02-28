@@ -18,6 +18,10 @@ Sample Input and Output
 ![image](https://github.com/Sasho80/1.-FirstStepsInProgramming/assets/7139995/230b729e-3886-42aa-a2c2-dc76bdef77bf)
 
 07.Problem: Program That Converts Levs (BGN - Bulgaria's currency) , into Euros
-Let's have a look at another simple program that reads a number of levs(BGN) from the user, converts them into euro (divides them by the euro exchange rate) and prints the result. This is a program of three consecutive commands. 
+Let's have a look at another simple program that reads a number of levs(BGN) from the user, converts them into euro (divides them by the euro exchange rate) and prints the result. This is a program of three consecutive commands. Enter and execute them in sequence:
+
+leva = int(input())
+euro = leva / 1.95583
+print(euro)
 
 
