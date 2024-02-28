@@ -11,3 +11,7 @@ Note: you are **not allowed to previously calculate the value** (for example wit
 
 03.roblem: Numbers from 1 to 20
 Write a Python console program that prints the numbers from 1 to 20 on separate lines on the console.
+
+05.Problem: Rectangle Area
+Write a Python program that receives two numbers a and b, then calculates and prints the area of a rectangle with sides a and b.
+![image](https://github.com/Sasho80/1.-FirstStepsInProgramming/assets/7139995/9dc8d610-dcbe-4013-8970-fab33ad0c0ca)
