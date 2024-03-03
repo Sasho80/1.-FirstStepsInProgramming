@@ -17,6 +17,12 @@ Write a Python program that receives two numbers a and b, then calculates and pr
 Sample Input and Output
 ![image](https://github.com/Sasho80/1.-FirstStepsInProgramming/assets/7139995/230b729e-3886-42aa-a2c2-dc76bdef77bf)
 
+06.Problem: Square of Stars
+Write a Python console program that reads an integer positive number N from the console and prints a square of N stars on the console, like in the examples below.
+
+Sample Input and Output
+![image](https://github.com/Sasho80/1.-FirstStepsInProgramming/assets/7139995/125866cb-a365-459f-882a-a7a536986932)
+
 07.Problem: Program That Converts Levs (BGN - Bulgaria's currency) , into Euros
 Let's have a look at another simple program that reads a number of levs(BGN) from the user, converts them into euro (divides them by the euro exchange rate) and prints the result. This is a program of three consecutive commands. Enter and execute them in sequence:
 
