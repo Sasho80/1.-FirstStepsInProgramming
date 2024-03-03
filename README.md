@@ -19,7 +19,8 @@ Sample Input and Output
 
 06.Problem: Square of Stars
 Write a Python console program that reads an integer positive number N from the console and prints a square of N stars on the console, like in the examples below.
-![image](https://github.com/Sasho80/1.-FirstStepsInProgramming/assets/7139995/ced28eb4-7b15-4331-b0b5-86b6e795bf90)
+![image](https://github.com/Sasho80/1.-FirstStepsInProgramming/assets/7139995/177ba819-8a4b-477f-b0be-800d37834b64)
+
 
 07.Problem: Program That Converts Levs (BGN - Bulgaria's currency) , into Euros
 Let's have a look at another simple program that reads a number of levs(BGN) from the user, converts them into euro (divides them by the euro exchange rate) and prints the result. This is a program of three consecutive commands. Enter and execute them in sequence:
