@@ -33,12 +33,4 @@ leva = int(input())
 euro = leva / 1.95583
 print(euro)
 
-08.Problem: A Program That Plays The Music Tone 'A'
-Our next program will consist of a single Python command which plays the music tone 'A' (432 hertz) for half a second (500 milliseconds):
-
-import winsound
-winsound.Beep(432, 500)
-
-In a Windows environment we will hear a sound. Make sure your speakers aren't muted. On Linux and MacOs, the example won't work.
-
 
