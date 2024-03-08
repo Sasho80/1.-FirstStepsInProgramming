@@ -12,6 +12,10 @@ Note: you are **not allowed to previously calculate the value** (for example wit
 03.roblem: Numbers from 1 to 20
 Write a Python console program that prints the numbers from 1 to 20 on separate lines on the console.
 
+04.Problem: Triangle of 55 Stars
+Write a Python console program that prints a triangle of 55 stars on 10 lines:
+![image](https://github.com/Sasho80/1.-FirstStepsInProgramming/assets/7139995/95692553-1ac6-48df-b86b-42222d14dfee)
+
 05.Problem: Rectangle Area
 Write a Python program that receives two numbers a and b, then calculates and prints the area of a rectangle with sides a and b.
 Sample Input and Output
